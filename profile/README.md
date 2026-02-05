@@ -57,6 +57,7 @@ Transform your markdown files into beautifully formatted documents with syntax h
 
 ## 📚 Repositories
 
+- **[markview-oss](https://github.com/markview-app/markview)** - Open-source version of MarkView
 - **[support](https://github.com/markview-app/support)** - Bug reports, feature requests, and discussions
 - **[sample-markdown](https://github.com/markview-app/sample-markdown)** - Sample markdown files demonstrating MarkView features
 
@@ -65,7 +66,7 @@ Transform your markdown files into beautifully formatted documents with syntax h
 ## 🌐 Links
 
 - **Website:** [https://getmarkview.com/](https://getmarkview.com/)
-- **Support & FAQ:** [https://getmarkview.com/support.html](https://getmarkview.com/support.html)
+- **Support & FAQ:** [https://getmarkview.com/support](https://getmarkview.com/support)
 - **Privacy Policy:** [https://getmarkview.com/privacy-policy](https://getmarkview.com/privacy-policy)
 - **Discussions:** [GitHub Discussions](https://github.com/markview-app/support/discussions)
 
